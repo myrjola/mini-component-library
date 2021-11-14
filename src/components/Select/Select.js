@@ -31,6 +31,7 @@ const NativeSelect = styled.select`
   top: 0;
   left: 0;
   opacity: 0;
+  -webkit-appearance: none;
 `
 
 const DisplayedValue = styled.div`
